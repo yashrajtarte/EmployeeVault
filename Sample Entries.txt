@@ -1,0 +1,77 @@
+[
+  {
+    "empName": "Varun Kulkarni",
+    "empDesignation": "Manager",
+    "empCity": "Mumbai"
+  },
+  {
+    "empName": "Sneha Patil",
+    "empDesignation": "Software Engineer",
+    "empCity": "Pune"
+  },
+  {
+    "empName": "Amit Deshmukh",
+    "empDesignation": "Data Analyst",
+    "empCity": "Nagpur"
+  },
+  {
+    "empName": "Pooja Shah",
+    "empDesignation": "HR Executive",
+    "empCity": "Ahmedabad"
+  },
+  {
+    "empName": "Rohan Mehta",
+    "empDesignation": "Tech Lead",
+    "empCity": "Bengaluru"
+  },
+  {
+    "empName": "Neha Jadhav",
+    "empDesignation": "Product Manager",
+    "empCity": "Hyderabad"
+  },
+  {
+    "empName": "Manoj Tiwari",
+    "empDesignation": "DevOps Engineer",
+    "empCity": "Delhi"
+  },
+  {
+    "empName": "Ankita Ghosh",
+    "empDesignation": "Business Analyst",
+    "empCity": "Kolkata"
+  },
+  {
+    "empName": "Kunal Sharma",
+    "empDesignation": "UI/UX Designer",
+    "empCity": "Chandigarh"
+  },
+  {
+    "empName": "Ritika Verma",
+    "empDesignation": "Quality Assurance",
+    "empCity": "Jaipur"
+  },
+  {
+    "empName": "Siddharth Rao",
+    "empDesignation": "Cloud Architect",
+    "empCity": "Bhopal"
+  },
+  {
+    "empName": "Priya Nair",
+    "empDesignation": "Backend Developer",
+    "empCity": "Kochi"
+  },
+  {
+    "empName": "Arjun Singh",
+    "empDesignation": "Frontend Developer",
+    "empCity": "Lucknow"
+  },
+  {
+    "empName": "Meera Iyer",
+    "empDesignation": "Scrum Master",
+    "empCity": "Chennai"
+  },
+  {
+    "empName": "Rahul Joshi",
+    "empDesignation": "IT Support",
+    "empCity": "Indore"
+  }
+]
