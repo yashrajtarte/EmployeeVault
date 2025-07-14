@@ -92,7 +92,33 @@ CREATE TABLE Employee (
   EmpCity VARCHAR(255) NOT NULL
 );
 ```
+## 📸 Screenshots
 
+Add these screenshots to help users visualize your API:
+
+1. **Swagger UI Overview**  
+   ![Swagger UI](screenshots/swagger-ui.png)
+   ![](screenshots/swagger-ui1.png)
+   ![](screenshots/swagger-ui2.png) 
+   *The interactive API documentation page*
+
+3. **Sample GET Request**  
+   ![GET Request](screenshots/get-request.png)  
+   *Example of retrieving all employees*
+
+4. **POST Request Example**  
+   ![POST Request](screenshots/post-request.png)  
+   *Creating a new employee record*
+
+5. **Search Endpoint**  
+   ![Search Functionality](screenshots/search-endpoint.png)  
+   *Filtering employees by city and designation*
+
+6. **Error Handling**  
+   ![Error Response](screenshots/error-response.png)  
+   *Example error response (e.g., 404 Not Found)*
+
+   
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
