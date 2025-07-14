@@ -1,10 +1,11 @@
 # EmployeeVault - Employee Management System
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7.0-green.svg)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.0-green.svg)
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
+![Swagger](https://img.shields.io/badge/Swagger-2.3.0-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-EmployeeVault is a Spring Boot REST API application for managing employee data. It provides CRUD operations and advanced filtering capabilities for employee records.
+EmployeeVault is a Spring Boot REST API application for managing employee data with full CRUD operations, bulk processing, and advanced filtering capabilities. The API is now fully documented with Swagger UI for easy testing and integration.
 
 ## Features
 
@@ -12,6 +13,7 @@ EmployeeVault is a Spring Boot REST API application for managing employee data. 
 - **Bulk Operations**: Create multiple employees in a single request
 - **Advanced Search**: Filter employees by name, city, designation, or combinations
 - **RESTful API**: Standard HTTP methods and status codes
+- **Swagger UI**: Interactive API documentation
 - **CORS Support**: Pre-configured for frontend development
 - **JPA/Hibernate**: Database persistence with Spring Data JPA
 
